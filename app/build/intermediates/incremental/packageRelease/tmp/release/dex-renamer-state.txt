@@ -1,0 +1,4 @@
+#Wed Mar 26 17:51:22 BRT 2025
+base.0=C\:\\APP\\teste banner\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
